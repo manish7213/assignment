@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EmployeePortalUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
@@ -38,4 +37,4 @@ Runs on : http://localhost:4200
 Backend Code can be found on : https://github.com/manish7213/employee-portal
 
 Employees can be created using UI and the same will be visible in the grid below the form.
->>>>>>> c7af817e5a061e611c916c20c17591c8de234909
+
