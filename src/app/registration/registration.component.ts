@@ -62,6 +62,10 @@ export class RegistrationComponent implements OnInit {
 
   }
 
+  onClear() {
+    this.employeeForm.reset();
+  }
+
   columnDefs = [
     { headerName: 'Emp Id',field: 'empId', sortable: true, filter: true },
     { headerName: 'First Name',field: 'firstName', sortable: true, filter: true },
