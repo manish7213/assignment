@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EmployeePortalUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
@@ -25,3 +26,16 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# employee-portal-ui
+
+Language : Typescript
+Framework: Angular 11
+Library: Bootstrap,ag-grid
+
+Runs on : http://localhost:4200
+
+Backend Code can be found on : https://github.com/manish7213/employee-portal
+
+Employees can be created using UI and the same will be visible in the grid below the form.
+>>>>>>> c7af817e5a061e611c916c20c17591c8de234909
