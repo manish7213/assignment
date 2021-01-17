@@ -67,8 +67,8 @@ export class RegistrationComponent implements OnInit {
   }
 
   columnDefs = [
-    { headerName: 'Emp Id',field: 'empId', sortable: true, filter: true },
-    { headerName: 'First Name',field: 'firstName', sortable: true, filter: true },
+    { headerName: 'Emp Id',field: 'empId', sortable: true, filter: true},
+    { headerName: 'First Name',field: 'firstName', sortable: true, filter: true,sort:'asc' },
     { headerName: 'Last Name',field: 'lastName', sortable: true, filter: true },
     { headerName: 'Gender',field: 'gender', sortable: true, filter: true },
     { headerName: 'Dob',field: 'dob', sortable: true, filter: true },
