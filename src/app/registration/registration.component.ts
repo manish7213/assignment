@@ -59,6 +59,8 @@ export class RegistrationComponent implements OnInit {
       this.loadAllData();
     });
 
+    alert('Data Saved');
+    this.onClear();
 
   }
 
